@@ -1,0 +1,36 @@
+{
+    "id": "menu-data",
+    "section": "menu",
+    "menu": [
+        {
+            "id": "menu-1",
+            "text": "Home",
+            "link": "/"
+        },
+        {
+            "id": "menu-2",
+            "text": "Books",
+            "link": "https://igg.me/at/MAVRICS/x/23098086#/"
+        },
+        {
+            "id": "menu-3",
+            "text": "Build",
+            "link": "https://scratch.mit.edu/projects/701687305"            
+        },
+        {
+            "id": "menu-4",
+            "text": "Pilots",
+            "link": "/pilots"
+        },
+        {
+            "id": "menu-5",
+            "text": "Message",
+            "link": "/"
+        },
+        {
+            "id": "menu-6",
+            "text": "Merch",
+            "link": "/"
+        }
+    ]
+}
